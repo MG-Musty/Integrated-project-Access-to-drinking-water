@@ -1,0 +1,12 @@
+Ave_year_diff,Max,Min,,
+4.80,5,1,,
+,,,,
+,,ARC_n,ARC_r,ARC_u
+NO. of countries missing,,2,64,50
+Countries with 100%,,42,51,71
+Countries with Full Access,,62,29,55
+ARC = 0,,16,5,7
+ARC < 0,,16,17,26
+ARC > 0,,135,116,93
+,,,,
+Total Number,,231,231,231
