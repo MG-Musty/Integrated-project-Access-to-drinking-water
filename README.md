@@ -16,29 +16,28 @@ We’ll take a look at the WHO/UNICEF JMP (Joint Monitoring Programme for Water 
 - ``name``
 The country or area name.
 
-
 - `income_group`
 The country’s classification according to income group.
 
 - `pop_n`
 The national population size estimate, in thousands.
 
-`pop_u` 
+- `pop_u` 
 The urban population share estimate in percentage points (%).
 
 - `_wat_bas_n_` 
 The estimated national share of people with at least basic service (%)*.
 
-`_wat_lim_n_` 
+- `_wat_lim_n_` 
 The estimated national share of people with limited service (%).
 
-`_wat_unimp_n_` 
+- `_wat_unimp_n_` 
 The estimated national share of people with unimproved service (%).
 
 - `_wat_sur_n_` 
 The estimated national share of people with surface service (%).
  
-`_wat_bas_r_` 
+- `_wat_bas_r_` 
 The estimated rural share of people with at least basic service (%).
 
 - `_wat_lim_r_` 
