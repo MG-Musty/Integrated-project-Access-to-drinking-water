@@ -1,5 +1,7 @@
 # Integrated-project-Access-to-drinking-water
 
+<img width="600" height="371" alt="AVERAGE of ARC_n and AVERAGE of ARC_r" src="https://github.com/user-attachments/assets/91a0e8da-01e1-48d2-a0aa-78a0f7724a7c" />
+
 In this project I exhibit my Spreadsheet skills using Google sheets and I was able to perform all data import, retrieve, manipulation, cleaning, and visualization of the dataset.
 
 Understanding the data,  we’ll investigate access to safe and affordable drinking water.
