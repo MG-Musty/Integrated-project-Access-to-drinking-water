@@ -11,8 +11,7 @@ Understanding the data,  we’ll investigate access to safe and affordable drink
 
 # Becoming familiar with the dataset
 
-We’ll take a look at the WHO/UNICEF JMP (Joint Monitoring Programme for Water Supply, Sanitation, and Hygiene) Estimates on the use of water dataset for 2020.
-
+We’ll take a look at the WHO/UNICEF JMP (Joint Monitoring Programme for Water Supply, Sanitation, and Hygiene) Estimates on the use of water dataset for (2000-2020).
 
 
 - ``name``
