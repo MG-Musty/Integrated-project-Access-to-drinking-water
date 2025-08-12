@@ -167,7 +167,7 @@ Difference between ARC for all national_pop for countries Histogram chart
  
   A histogram of the difference in ARC values for rural versus urban areas.
 
-5. ** Investigating access by region**
+5. **Investigating access by region**
 
    New Dataset imported `(Region).` A summary per region that at least includes the number of countries per region, the average ARC on a national level, and the average ARC values in rural and urban areas.
 
